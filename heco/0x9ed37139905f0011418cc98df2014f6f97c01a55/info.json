@@ -1,0 +1,11 @@
+{
+ "name": "VANTEN",
+ "website": "https://vanten.cc",
+ "description": "NFT lending",
+ "explorer": "https://hecoinfo.com/token/0x9ed37139905f0011418cc98df2014f6f97c01a55",
+ "type": "HRC-20",
+ "symbol": "VDT",
+ "decimals": 18,
+ "status": "activity",
+ "id": "0x9ed37139905f0011418cc98df2014f6f97c01a55"
+}

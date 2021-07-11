@@ -1,10 +1,10 @@
 {
- "name": "VDT",
+ "name": "VANTEN",
  "website": "https://vanten.cc",
  "description": "火币生态链NFT借贷平台",
  "explorer": "https://hecoinfo.com/token/0x9ed37139905f0011418cc98df2014f6f97c01a55",
  "type": "HRC-20",
- "symbol": "VAVTEN",
+ "symbol": "VDT",
  "decimals": 18,
  "status": "活动",
  "id": "0x9ed37139905f0011418cc98df2014f6f97c01a55"
